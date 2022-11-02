@@ -23,9 +23,10 @@
 	"stay_up_latest_news": "随时了解最新消息",
 	"sign_in": "登录",
 	"sign_up": "注册",
-	"ru": "俄语",
-	"en": "英语",
-	"uk": "乌克兰",
-	"lv": "拉脱维亚语",
-	"it": "意大利语"
+  "ru": "Русский",
+  "en": "English",
+  "uk": "Українська",
+  "lv": "Latviešu",
+  "it": "Italiano",
+  "zh": "中文"
 }

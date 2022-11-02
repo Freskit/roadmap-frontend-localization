@@ -15,7 +15,6 @@
   "risk_warnings": "Попередження про ризик",
   "contact_us": "Зв'язатися з нами",
   "all_rights_reserved": "Усі права захищено",
-
   "explore": "Меню",
   "our_team": "Наша команда",
   "use_logo": "Використання лого",
@@ -28,5 +27,6 @@
   "en": "English",
   "uk": "Українська",
   "lv": "Latviešu",
-  "it": "Italiano"
+  "it": "Italiano",
+  "zh": "中文"
 }
